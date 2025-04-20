@@ -1,0 +1,7 @@
+C:\Users\Rog\source\repos\HW.Coffee\HW.Coffee\bin\Debug\HW.Coffee.exe.config
+C:\Users\Rog\source\repos\HW.Coffee\HW.Coffee\bin\Debug\HW.Coffee.exe
+C:\Users\Rog\source\repos\HW.Coffee\HW.Coffee\bin\Debug\HW.Coffee.pdb
+C:\Users\Rog\source\repos\HW.Coffee\HW.Coffee\obj\Debug\HW.Coffee.csproj.AssemblyReference.cache
+C:\Users\Rog\source\repos\HW.Coffee\HW.Coffee\obj\Debug\HW.Coffee.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Coffee\HW.Coffee\obj\Debug\HW.Coffee.exe
+C:\Users\Rog\source\repos\HW.Coffee\HW.Coffee\obj\Debug\HW.Coffee.pdb
